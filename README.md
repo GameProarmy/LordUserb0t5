@@ -24,7 +24,7 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/zeeoneofc/LordUserb0t3/blob/master/session.json#L1)
+[`Click Here`](https://github.com/gameproarmy/LordUserb0t3/blob/master/session.json#L1)
 
 ## `SETTING.JSON`
 
@@ -38,11 +38,11 @@
     "auto_welcome": true,
     "auto_leave": true,
 	"prefix": ".",
-	"ownerNumber": "62887435047326",
-	"ownername": "ZeeoneOfc",
-	"botname":"LordUserbot",
-	"thumbnail":"LordUserbot_Thumb_1.jpg",
-	"fakethumb":"LordUserbot_Thumb_1.jpg",
+	"ownerNumber": "+4915905890216",
+	"ownername": "꧁༺「™✯࿗ꌛ℮ꁣꁣꊛꈛ✯ī.am 」༻꧂⁩",
+	"botname":"Trustbot",
+	"thumbnail":"Trustbot_Thumb_1.jpg",
+	"fakethumb":"Trustbot_Thumb_1.jpg",
 	"url_gif":"https://telegra.ph/file/c864fc477fa22e0d4bfc3.mp4"
 }
 ```
